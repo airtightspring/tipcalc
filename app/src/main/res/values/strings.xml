@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tipcalc</string>
+    <string name="button_name">Tip</string>
+    <string name="text_edit_name">Amount</string>
+</resources>
